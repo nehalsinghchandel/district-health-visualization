@@ -58,7 +58,7 @@ Where:
 * **m** = Slope
 * **c** = Intercept
 
----
+--- 
 
 ## 🌍 Project Outcome
 
