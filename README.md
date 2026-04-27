@@ -72,4 +72,4 @@ This project highlights how **education can be one of the strongest tools for so
 
 This project combines **Data Science + Social Impact**, helping us understand real-world problems through data and supporting better policy-making for public health improvement.
 
-✨ Small educational changes can lead to big national health improvements.
+✨ Small educational changes can lead to big national health improvements. 
