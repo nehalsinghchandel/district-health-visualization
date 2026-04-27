@@ -5,7 +5,7 @@ This project analyzes India’s **NFHS-5 (National Family Health Survey-5)** dis
 It focuses on identifying meaningful patterns between education and public health outcomes using **data visualization, statistical analysis, and linear regression models**.
 
 --- 
-
+ 
 ## 🎯 Project Objectives
 
 The main goal of this project is to study how improving women’s education can create a positive impact on health and social development.
